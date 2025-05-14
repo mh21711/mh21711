@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Mahmoud Elrashedy
 
-# Motivated 16-year-old front-end developer proficient in HTML, CSS, and JavaScript, with certifications in front-end technologies. Skilled at building responsive, user-centered web applications that prioritize clean and efficient code. Expertise in solving complex problems and crafting optimized solutions tailored to various development needs.
+## Motivated front-end developer proficient in HTML, CSS, and JavaScript, with certifications in front-end technologies. Skilled at building responsive, user-centered web applications that prioritize clean and efficient code. Expertise in solving complex problems and crafting optimized solutions tailored to various development needs.
 
 <!--
 **mh21711/mh21711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mh21711)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mh21711&show_icons=true)
