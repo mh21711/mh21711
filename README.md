@@ -10,7 +10,6 @@ Motivated front-end developer proficient in HTML, CSS, and JavaScript, with cert
 * 🌍  I'm based in Egypt, El Behira
 * 🖥️  See my portfolio at [Portfolio-website](http://mahmoudelrashedy.my.canva.site/design-graphic-design-portfolio-website-in-black-white-dark-classic-minimal-style)
 * ✉️  You can contact me at [elrashedymahmoud217@gmail.com](mailto:elrashedymahmoud217@gmail.com)
-* ✉️  You can contact me at [elrashedymahmoud217@gmail.com](mailto:elrashedymahmoud217@gmail.com)
 * 🤝  I'm open to collaborating on Front End Development
 
 ### Skills
