@@ -8,7 +8,8 @@ Front End Developer
 Motivated front-end developer proficient in HTML, CSS, and JavaScript, with certifications in front-end technologies. Skilled at building responsive, user-centered web applications that prioritize clean and efficient code. Expertise in solving complex problems and crafting optimized solutions tailored to various development needs.
 
 * 🌍  I'm based in Egypt, El Behira
-* 🖥️  See my portfolio at [Portfolio-website](http://https://mahmoudelrashedy.my.canva.site/design-graphic-design-portfolio-website-in-black-white-dark-classic-minimal-style)
+* 🖥️  See my portfolio at [Portfolio-website](http://mahmoudelrashedy.my.canva.site/design-graphic-design-portfolio-website-in-black-white-dark-classic-minimal-style)
+* ✉️  You can contact me at [elrashedymahmoud217@gmail.com](mailto:elrashedymahmoud217@gmail.com)
 * ✉️  You can contact me at [elrashedymahmoud217@gmail.com](mailto:elrashedymahmoud217@gmail.com)
 * 🤝  I'm open to collaborating on Front End Development
 
