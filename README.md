@@ -13,30 +13,27 @@ I am a web developer proficient in Python and JavaScript, with 2 years of experi
 
 ### Socials
 
-<p align="left">
+<p align="left" style="display: flex;">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mahmoudelrashedy" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mahmoudelrashedy" target="_blank" rel="noreferrer" style="color: white">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" align="center" /> 
     <span>LinkedIn</span>
   </a>
-  <br /><br />
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@ELRashedy_7" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@ELRashedy_7" target="_blank" rel="noreferrer" style="color: white">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" align="center" /> 
     <span>YouTube</span>
   </a>
-  <br /><br />
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/elrashedy_7" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/elrashedy_7" target="_blank" rel="noreferrer" style="color: white">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" align="center" /> 
     <span>Instagram</span>
   </a>
-  <br /><br />
 
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@elrashedy_7" target="_blank" rel="noreferrer">
+  <a href="https://www.tiktok.com/@elrashedy_7" target="_blank" rel="noreferrer" style="color: white">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="32" height="32" align="center" /> 
     <span>TikTok</span>
   </a>
