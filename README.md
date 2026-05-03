@@ -13,29 +13,32 @@ I am a web developer proficient in Python and JavaScript, with 2 years of experi
 
 ### Socials
 
-<p align="left" style="display: flex;">
+<p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mahmoudelrashedy" target="_blank" rel="noreferrer" style="color: white">
+  <a href="https://www.linkedin.com/in/mahmoudelrashedy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" align="center" /> 
-    <span>LinkedIn</span>
+    <kbd>LinkedIn</kbd>
   </a>
+  <br/><br/>
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@ELRashedy_7" target="_blank" rel="noreferrer" style="color: white">
+  <a href="https://www.youtube.com/@ELRashedy_7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" align="center" /> 
-    <span>YouTube</span>
+    <kbd>YouTube</kbd>
   </a>
+  <br/><br/>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/elrashedy_7" target="_blank" rel="noreferrer" style="color: white">
+  <a href="https://www.instagram.com/elrashedy_7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" align="center" /> 
-    <span>Instagram</span>
+    <kbd>Instagram</kbd>
   </a>
+  <br/><br/>
 
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@elrashedy_7" target="_blank" rel="noreferrer" style="color: white">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="32" height="32" align="center" /> 
-    <span>TikTok</span>
+  <a href="https://www.tiktok.com/@elrashedy_7" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="32" height="32" align="center" /> 
+    <kbd>TikTok</kbd>
   </a>
 </p>
 
