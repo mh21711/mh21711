@@ -2,15 +2,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Elrashedy
 =========================================================================================================================================
 
-Front End Developer
+Web Developer | AI & Automation
 -------------------
 
-Motivated front-end developer proficient in HTML, CSS, and JavaScript, with certifications in front-end technologies. Skilled at building responsive, user-centered web applications that prioritize clean and efficient code. Expertise in solving complex problems and crafting optimized solutions tailored to various development needs.
+I am a web developer proficient in Python and JavaScript, with 2 years of experience and certifications in web development technologies. Skilled at building responsive, user-centered web applications that prioritize clean and efficient code. Expertise in solving complex problems and crafting optimized solutions tailored to various development needs.
 
 * 🌍  I'm based in Egypt, El Behira
-* 🖥️  See my portfolio at [Portfolio-website](http://mahmoudelrashedy.my.canva.site/design-graphic-design-portfolio-website-in-black-white-dark-classic-minimal-style)
-* ✉️  You can contact me at [elrashedymahmoud217@gmail.com](mailto:elrashedymahmoud217@gmail.com)
-* 🤝  I'm open to collaborating on Front End Development
+* 🖥️  See my portfolio at [Portfolio-website](https://mahmoudelrashedy.vercel.app)
+* 🤝  I'm open to collaborating on Web Development & AI & Automation
 
 ### Skills
 
